@@ -1,9 +1,9 @@
 # Megha
 
 Hey there! 
-🚀 I am currently focusing on AI, Machine Learning, Deep Learning, Neural Networks, Computer Vision, and NLP
-🔭 I like to work on UI and branding when I get bored
-☄️ For inquiries, reach out to me at [meghaprasad1210@gmail.com](mailto:meghaprasad1210@gmail.com).
+- 🚀 I am currently focusing on AI, Machine Learning, Deep Learning, Neural Networks, Computer Vision, and NLP
+- 🔭 I like to work on UI and branding when I get bored
+- ☄️ For inquiries, reach out to me at [meghaprasad1210@gmail.com](mailto:meghaprasad1210@gmail.com).
 
 ## Tech Stack
 <div align="center">
