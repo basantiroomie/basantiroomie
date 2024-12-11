@@ -26,5 +26,13 @@ Hey there!
       	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png" title="Scala"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" title="C++"/></code>
        	<code><img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" title="Lua"/></code>
+</div>
 
+<div align="center">
+	<code><img width="50" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></code>
+	<code><img width="50" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" /></code>
+	<code><img width="50" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" /></code>
+	<code><img width="50" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></code>
+	<code><img width="50" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></code>
+	<code><img width="50" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></code>
 </div>
