@@ -1,4 +1,4 @@
-# Megha's AI & ML Projects
+# Megha 
 
 Welcome to my GitHub! 
 I focus on AI, Machine Learning, Deep Learning, Neural Networks, Computer Vision, and Natural Language Processing. 
