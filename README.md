@@ -3,7 +3,7 @@
 Hey there!  
 - 🚀 I am currently focusing on AI, Machine Learning, Deep Learning, Neural Networks, Computer Vision, and NLP  
 - 🎨 Passionate about combining creativity with technology to build impactful solutions  
-- 🔭 Like to work on UI and branding when I get time  
+- 🔭 Like to work on UI and branding when I get bored  
 - ☄️ For inquiries, reach out to me at [meghaprasad1210@gmail.com](mailto:meghaprasad1210@gmail.com).
 
 ## Tech Stack
