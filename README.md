@@ -29,6 +29,9 @@ Hey there!
        	<code><img width="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/89970707-fd3d-46e9-897e-7e51ba07ba4c" title="Lua"/></code>
 </div>
 
+<!-- Add your line here -->
+<p align="center">Excited to explore cutting-edge technologies!</p>
+
 <div align="center">
 	<code><img width="150" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></code>
 	<code><img width="150" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" /></code>
