@@ -37,4 +37,4 @@ Hey there!
 	<code><img width="150" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></code>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basantiroomie)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=basantiroomie)](https://github.com/ryo-ma/github-profile-trophy)
