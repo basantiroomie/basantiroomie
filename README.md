@@ -2,7 +2,7 @@
 
 Hey there! 
 - 🚀 I am currently focusing on AI, Machine Learning, Deep Learning, Neural Networks, Computer Vision, and NLP
-- 🔭 I like to work on UI and branding when I get bored
+- 🔭 Like to work on UI and branding when I have time
 - ☄️ For inquiries, reach out to me at [meghaprasad1210@gmail.com](mailto:meghaprasad1210@gmail.com).
 
 ## Tech Stack
@@ -14,4 +14,5 @@ Hey there!
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="Metamask" title="Metamask"/></code>
+	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png"/></code>
 </div>
